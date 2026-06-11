@@ -6,4 +6,4 @@ Month 1 : https://github.com/Gaurav167hue/secure-ota-firmware-update
 
 
 Project Solo
-Month 1 : 
+Month 1 : https://github.com/HANNN-YOLO/secure-ota-firmware
