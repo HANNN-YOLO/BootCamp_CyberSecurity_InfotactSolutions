@@ -127,13 +127,13 @@ This repository contains my complete bootcamp journey, including all learning ou
 
 At the end of this bootcamp, this repository aims to deliver:
 
-✅ Secure OTA Firmware Architecture
-✅ PKI and Digital Signature Implementation
-✅ Automated Code Signing Pipeline
-✅ Docker-based OTA Infrastructure
-✅ OTA Client Verification System
-✅ End-to-End Secure Firmware Update Process
-✅ Technical Documentation and Portfolio
+- ✅ Secure OTA Firmware Architecture
+- ✅ PKI and Digital Signature Implementation
+- ✅ Automated Code Signing Pipeline
+- ✅ Docker-based OTA Infrastructure
+- ✅ OTA Client Verification System
+- ✅ End-to-End Secure Firmware Update Process
+- ✅ Technical Documentation and Portfolio
 
 ---
 
