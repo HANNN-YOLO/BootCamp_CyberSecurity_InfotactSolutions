@@ -25,15 +25,6 @@ Cybersecurity Bootcamp 2026 repository for learning materials, hands-on labs, pr
 - Signature Verification
 - Documentation
 
-**Week 2 — CI/CD Automated Code Signing**
-
-- Git Workflow Fundamentals
-- GitHub Actions Fundamentals
-- Build Automation with GitHub Actions
-- GitHub Secrets Management
-- Python Workflow Integration
-- Docker-based OTA Server
-
 ---
 
 ### 👨‍💻 Solo Project
@@ -87,14 +78,27 @@ Cybersecurity Bootcamp 2026 repository for learning materials, hands-on labs, pr
 
 ## 📅 Week 2 Progress (June 14 – June 19)
 
-| Date          | Activity                             | Commit                                              |
-| ------------- | ------------------------------------ | --------------------------------------------------- |
-| June 14, 2026 | Day 8 - Git Workflow Fundamentals    | `docs: github workflow notes`                       |
-| June 15, 2026 | Day 9 - GitHub Actions Fundamentals  | `docs: github actions notes`                        |
-| June 16, 2026 | Day 10 - Build GitHub Actions        | `feat: add first github action`                     |
-| June 17, 2026 | Day 11 - GitHub Secrets Management   | `feat: configure github secrets`                    |
-| June 18, 2026 | Day 12 - Python Workflow Integration | `feat: automate firmware signing`                   |
-| June 19, 2026 | Day 13 - Docker-based OTA Server     | `test: validate automated signing`and documentation |
+| Date          | Activity                             | Commit                                               |
+| ------------- | ------------------------------------ | ---------------------------------------------------- |
+| June 14, 2026 | Day 8 - Git Workflow Fundamentals    | `docs: github workflow notes`                        |
+| June 15, 2026 | Day 9 - GitHub Actions Fundamentals  | `docs: github actions notes`                         |
+| June 16, 2026 | Day 10 - Build GitHub Actions        | `feat: add first github action`                      |
+| June 17, 2026 | Day 11 - GitHub Secrets Management   | `feat: configure github secrets`                     |
+| June 18, 2026 | Day 12 - Python Workflow Integration | `feat: automate firmware signing`                    |
+| June 19, 2026 | Day 13 - Docker-based OTA Server     | `test: validate automated signing and documentation` |
+
+---
+
+## Week 3 : June 21 - June 28
+
+| Date          | Activity                                   | Commit                                                       |
+| ------------- | ------------------------------------------ | ------------------------------------------------------------ |
+| June 21, 2026 | Day 15 - Fundamental OTA Server            | docs: ota update notes                                       |
+| June 22, 2026 | Day 16 - Create requests client            | feat: add firmware download script                           |
+| June 23, 2026 | Day 17 - Build log for OTA Server Client   | feat: add verification logging                               |
+| June 24, 2026 | Day 18 - build verify hash for client      | feat: add firmware hash verification                         |
+| June 25, 2026 | Day 19 - build verify signature for client | feat: add signature verification                             |
+| June 26, 2026 | Day 20 & Day 21 - Testing Scenario Client  | test: add verification scenarios and Documentation in week 3 |
 
 ---
 
