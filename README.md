@@ -1,25 +1,35 @@
 # 🛡️ BootCamp CyberSecurity
 
-Cybersecurity Bootcamp 2026 repository for learning materials, hands-on labs, project deliverables, weekly progress tracking, and team collaboration.
+Cybersecurity Bootcamp 2026 portfolio repository containing learning materials, hands-on labs, weekly deliverables, and the end-to-end implementation of a Secure OTA Firmware infrastructure.
+
+This repository serves as my personal documentation of all bootcamp outputs from Week 1 until the final project implementation, while the team repository focuses only on Week 1 deliverables.
 
 ---
 
-## 📂 Project Repository
+# 🎯 Repository Purpose
 
-### 👥 Team Project
+- 📚 Document weekly learning progress and deliverables
+- 🔐 Build a Secure OTA Firmware infrastructure from scratch
+- ⚙️ Practice Cryptography, Automation, and DevSecOps concepts
+- 🚀 Showcase the final project implementation and portfolio
 
-#### Month 1 — Secure OTA Firmware Update
+---
 
-**Repository:**
+# 📂 Project Repository
+
+## 👥 Team Project
+
+### Month 1 — Secure OTA Firmware Update
+
+**Repository**
 
 - https://github.com/Gaurav167hue/secure-ota-firmware-update
 
-**Topics Covered**
+**Scope**
 
-**Week 1 — PKI Setup and Cryptographic Hashing**
-
-- Fundamental Cryptography
-- SHA-256 Hashing
+- Week 1 Deliverables Only
+- PKI Setup
+- Cryptographic Hashing
 - Firmware Simulation
 - Digital Signing
 - Signature Verification
@@ -27,97 +37,119 @@ Cybersecurity Bootcamp 2026 repository for learning materials, hands-on labs, pr
 
 ---
 
-### 👨‍💻 Solo Project
+## 👨‍💻 Personal Project
 
-#### Month 1 — Secure OTA Firmware
+### Secure OTA Firmware
 
-**Repository:**
+**Repository**
 
 - https://github.com/HANNN-YOLO/secure-ota-firmware
 
-**Topics Covered**
+**Scope**
 
-**Week 1 — PKI Setup and Cryptographic Hashing**
-
-- Fundamental Cryptography
-- SHA-256 Hash Generation
-- ECDSA Key Generation
-- Firmware Signing
-- Firmware Verification
-
-**Week 2 — CI/CD Automated Code Signing**
-
-- Git Workflow Fundamentals
-- GitHub Actions Fundamentals
-- Workflow Automation
-- Secrets Management
-- Python Integration
-- Docker-based OTA Server
+This repository contains my complete bootcamp journey, including all learning outputs from Week 1 until the final project implementation.
 
 ---
+
+# 🗺️ Learning Roadmap
 
 ## 🚀 Bootcamp Preparation
 
-- June 06, 2026 : On Boarding
-- June 07, 2026 : Division of Tasks
+| Date          | Activity          |
+| ------------- | ----------------- |
+| June 06, 2026 | On Boarding       |
+| June 07, 2026 | Division of Tasks |
 
 ---
 
-## 📅 Week 1 Progress (June 08 – June 13)
+## 📅 Week 1 — PKI Setup and Cryptographic Foundations
 
-| Date          | Activity                             | Commit                                                       |
-| ------------- | ------------------------------------ | ------------------------------------------------------------ |
-| June 08, 2026 | Day 1 - Fundamental Cryptography     | `docs: add cryptography fundamentals notes`                  |
-| June 09, 2026 | Day 2 - Hashing & SHA256             | `feat: add sha256 hashing script`                            |
-| June 10, 2026 | Day 3 - Library Cryptography         | `feat: implement ecdsa key generation`                       |
-| June 11, 2026 | Day 4 - Simulation Firmware          | `feat: add dummy firmware and hash generation`               |
-| June 12, 2026 | Day 5 - Digital Signing              | `feat: implement firmware signing process`                   |
-| June 13, 2026 | Day 6 - Verification & Documentation | `feat: add signature verification testing and documentation` |
+**June 08 – June 13, 2026**
 
----
-
-## 📅 Week 2 Progress (June 14 – June 19)
-
-| Date          | Activity                             | Commit                                               |
-| ------------- | ------------------------------------ | ---------------------------------------------------- |
-| June 14, 2026 | Day 8 - Git Workflow Fundamentals    | `docs: github workflow notes`                        |
-| June 15, 2026 | Day 9 - GitHub Actions Fundamentals  | `docs: github actions notes`                         |
-| June 16, 2026 | Day 10 - Build GitHub Actions        | `feat: add first github action`                      |
-| June 17, 2026 | Day 11 - GitHub Secrets Management   | `feat: configure github secrets`                     |
-| June 18, 2026 | Day 12 - Python Workflow Integration | `feat: automate firmware signing`                    |
-| June 19, 2026 | Day 13 - Docker-based OTA Server     | `test: validate automated signing and documentation` |
+| Date          | Day   | Topics                                           |
+| ------------- | ----- | ------------------------------------------------ |
+| June 08, 2026 | Day 1 | Fundamental Cryptography                         |
+| June 09, 2026 | Day 2 | Hashing & SHA-256                                |
+| June 10, 2026 | Day 3 | Library Cryptography & ECDSA Key Generation      |
+| June 11, 2026 | Day 4 | Firmware Simulation                              |
+| June 12, 2026 | Day 5 | Digital Signing                                  |
+| June 13, 2026 | Day 6 | Signature Verification & Documentation in week 1 |
 
 ---
 
-## Week 3 : June 21 - June 28
+## 📅 Week 2 — CI/CD Automated Code Signing
 
-| Date          | Activity                                   | Commit                                                       |
-| ------------- | ------------------------------------------ | ------------------------------------------------------------ |
-| June 21, 2026 | Day 15 - Fundamental OTA Server            | docs: ota update notes                                       |
-| June 22, 2026 | Day 16 - Create requests client            | feat: add firmware download script                           |
-| June 23, 2026 | Day 17 - Build log for OTA Server Client   | feat: add verification logging                               |
-| June 24, 2026 | Day 18 - build verify hash for client      | feat: add firmware hash verification                         |
-| June 25, 2026 | Day 19 - build verify signature for client | feat: add signature verification                             |
-| June 26, 2026 | Day 20 & Day 21 - Testing Scenario Client  | test: add verification scenarios and Documentation in week 3 |
+**June 14 – June 19, 2026**
 
----
-
-## 🔄 Coming Soon
-
-#### Month 2 —
+| Date          | Day    | Topics                                            |
+| ------------- | ------ | ------------------------------------------------- |
+| June 14, 2026 | Day 8  | Git Workflow Fundamentals                         |
+| June 15, 2026 | Day 9  | GitHub Actions Fundamentals                       |
+| June 16, 2026 | Day 10 | Build GitHub Actions Workflow                     |
+| June 17, 2026 | Day 11 | GitHub Secrets Management                         |
+| June 18, 2026 | Day 12 | Python Workflow Integration                       |
+| June 19, 2026 | Day 13 | Docker-based OTA Server & Documentation in Week 2 |
 
 ---
 
-## 🔄 Coming Soon
+## 📅 Week 3 — OTA Client Development and Verification
 
-<!-- - Month 2 Projects
-- Advanced Secure OTA Infrastructure
-- Cloud Deployment and Monitoring
-- Security Testing and Hardening -->
+**June 21 – June 26, 2026**
+
+| Date          | Day    | Topics                                      |
+| ------------- | ------ | ------------------------------------------- |
+| June 21, 2026 | Day 15 | OTA Server Fundamentals                     |
+| June 22, 2026 | Day 16 | Create Request Client                       |
+| June 23, 2026 | Day 17 | Build Verification Logging                  |
+| June 24, 2026 | Day 18 | Firmware Hash Verification                  |
+| June 25, 2026 | Day 19 | Firmware Signature Verification             |
+| June 26, 2026 | Day 20 | Testing Scenarios & Documentation in week 3 |
 
 ---
 
-## 🚀 Author
+## 📅 Week 4 — End-to-End Secure OTA Infrastructure
+
+**Coming Soon 🚧**
+
+| Planned Topics                           |
+| ---------------------------------------- |
+| OTA Server Deployment                    |
+| Secure Firmware Distribution             |
+| Automated Verification Pipeline          |
+| End-to-End Integration Testing           |
+| Security Hardening                       |
+| Final Project Presentation               |
+| Documentation and Portfolio Finalization |
+
+---
+
+# 🚀 Final Project Outcome
+
+At the end of this bootcamp, this repository aims to deliver:
+
+✅ Secure OTA Firmware Architecture
+✅ PKI and Digital Signature Implementation
+✅ Automated Code Signing Pipeline
+✅ Docker-based OTA Infrastructure
+✅ OTA Client Verification System
+✅ End-to-End Secure Firmware Update Process
+✅ Technical Documentation and Portfolio
+
+---
+
+# 📊 Progress Tracking
+
+| Phase                                          | Status         |
+| ---------------------------------------------- | -------------- |
+| Bootcamp Preparation                           | ✅ Completed   |
+| Week 1 – Cryptographic Foundations             | ✅ Completed   |
+| Week 2 – CI/CD Automated Code Signing          | ✅ Completed   |
+| Week 3 – OTA Client Development & Verification | ✅ Completed   |
+| Week 4 – End-to-End Secure OTA Infrastructure  | 🚧 In Progress |
+
+---
+
+# 🚀 Author
 
 **HANNN-YOLO**
 Cybersecurity Bootcamp 2026
